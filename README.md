@@ -70,7 +70,6 @@ https://github.com/migueravila/Bento
 | [The Link to the editor](https://law-dawg360.github.io/indexes/packages/nighttab/1/index.html) | [raw text](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/packages/nighttab/1/index.html) | [index.html github link](https://github.com/Law-Dawg360/indexes/blob/homepages/packages/nighttab/1/index.html) | [Full Screenshot](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/editors/Screenshot_2024-02-26_001.png) |    
 (Image is the link to the page)    
 [![page](assets/screenshots/editors/Screenshot_2024-02-26_001.png)](https://law-dawg360.github.io/indexes/Main.html)
-[![Model](descriptions/pages/nighttabEditor.md)](https://github.com/Law-Dawg360/indexes/blob/homepages/descriptions/pages/nighttabEditor.md)
 
 ## The Bento Editor (2024-02-26 8.28.48 AM)    
 | [The Link to the editor](https://law-dawg360.github.io/indexes/packages/bento/index.html) | [raw text](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/packages/bento/index.html) | [index.html github link](https://github.com/Law-Dawg360/indexes/blob/homepages/packages/bento/index.html) | [Full Screenshot](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/editors/Screenshot_2024-02-26_002.png) |    
@@ -100,3 +99,5 @@ Title (Opens in New Tab?) (Time)
 | [raw text](https://raw.githubusercontent.com/Law-Dawg360/indexes/homepages/assets/jsons/oldmain1.json) | [github link](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/oldmain1.json) | [Full Screenshot, And the Image Is Link to the Site](https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/Screenshot_2024-02-20_001.png) |
 |:-------------:|:-------------:|:-------------:|
 |  |  | [![page](assets/screenshots/Screenshot_2024-02-20_001.png)](https://law-dawg360.github.io/indexes/Main.html) |
+
+[![Model](descriptions/pages/nighttabEditor.md)](https://github.com/Law-Dawg360/indexes/blob/homepages/descriptions/pages/nighttabEditor.md)
