@@ -29,32 +29,31 @@ window.CONFIG = {
       pinned: true
     },
     {
-      category: 'Communication',
-      name: 'Telegram',
-      icon: 'telegram',
-      url: 'http://t.me',
-      normalisedURL: 't.me',
+      category: 'Entertainment',
+      name: 'Main',
       triggers: [
         'm',
-        'tm',
-        'tg',
-        'teleg',
-        'telega',
-        'telegram'
+        'ma',
+        'main',
       ],
       key: 'KeyM',
+      icon: 'main',
+      url: 'https://law-dawg360.github.io/indexes/Main.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Main.html',
       commands: {
         go: {
-          template: '{@}/{$}'
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
+        },
+        search: {
+          template: '{@}/indexes/Main.html{$}'
         }
       },
       bgColor: {
-        type: 'gradient',
-        gradientType: 'radial',
-        colors: ['#29aaed', '#25a4e2'],
-        stops: [40, 100]
+        type: 'solid',
+        color: '#f30002'
       },
-      textColor: '#fff',
+      textColor: '#212121',
       pinned: true
     },
     {
