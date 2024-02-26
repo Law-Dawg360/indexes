@@ -1,7 +1,7 @@
 window.CONFIG = {
   macros: [
     {
-      category: 'Entertainment',
+      category: 'Nighttab',
       name: 'Home',
       triggers: [
         'h',
@@ -29,7 +29,7 @@ window.CONFIG = {
       pinned: true
     },
     {
-      category: 'Entertainment',
+      category: 'Nighttab',
       name: 'Main',
       triggers: [
         'm',
