@@ -2,23 +2,23 @@ window.CONFIG = {
   macros: [
     {
       category: 'Entertainment',
-      name: 'YouTube',
+      name: 'Home',
       triggers: [
-        'y',
-        'yt',
-        'youtube',
+        'h',
+        'ho',
+        'home',
       ],
-      key: 'KeyY',
-      icon: 'youtube',
-      url: 'https://youtube.com',
-      normalisedURL: 'youtube.com',
+      key: 'KeyH',
+      icon: 'home',
+      url: 'https://law-dawg360.github.io/indexes/Home.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
       commands: {
         go: {
-          template: 'https://youtu.be/{$}',
-          description: 'go to video'
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
         },
         search: {
-          template: '{@}/results?search_query={$}'
+          template: '{@}/indexes/Home.html{$}'
         }
       },
       bgColor: {
