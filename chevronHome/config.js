@@ -23,9 +23,9 @@ window.CONFIG = {
       },
       bgColor: {
         type: 'solid',
-        color: '#f30002'
+        color: '#252931'
       },
-      textColor: '#212121',
+      textColor: '#0050ff',
       pinned: true
     },
     {
@@ -51,9 +51,9 @@ window.CONFIG = {
       },
       bgColor: {
         type: 'solid',
-        color: '#f30002'
+        color: '#252931'
       },
-      textColor: '#212121',
+      textColor: '#0050ff',
       pinned: true
     },
     {
