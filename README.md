@@ -46,6 +46,14 @@ https://mellow-smakager-bd0379.netlify.app/
 https://github.com/migueravila/Bento
 
 https://github.com/Law-Dawg360/StartOS
+https://github.com/AbdelrhmanNile/startpage-onedark
+https://github.com/Paul-Houser/StartTree
+https://github.com/Law-Dawg360/Hexstart
+https://github.com/sadparadiseinhell/tea-green
+https://sadparadiseinhell.github.io/tea-green/
+https://github.com/Ozencb/tilde-enhanced
+https://ozencb.github.io/tilde-enhanced/
+https://github.com/Law-Dawg360/tilde-enhanced
 
 ## Example nightTab setups:
 
