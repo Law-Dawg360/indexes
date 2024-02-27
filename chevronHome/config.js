@@ -112,6 +112,120 @@ window.CONFIG = {
       textColor: '#0050ff',
       pinned: true
     },
+
+
+    {
+      category: 'Nighttab',
+      name: '5',
+      triggers: [
+        'e',
+        'eb',
+        'eblock',
+      ],
+      key: 'KeyP',
+      icon: 'eblock2',
+      url: 'https://law-dawg360.github.io/indexes/Home.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
+      commands: {
+        go: {
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
+        },
+        search: {
+          template: '{@}/indexes/Home.html{$}'
+        }
+      },
+      bgColor: {
+        type: 'solid',
+        color: '#252931'
+      },
+      textColor: '#0050ff',
+      pinned: true
+    },
+    {
+      category: 'Nighttab',
+      name: '6',
+      triggers: [
+        'e',
+        'eb',
+        'eblock',
+      ],
+      key: 'KeyA',
+      icon: 'eblock2',
+      url: 'https://law-dawg360.github.io/indexes/Home.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
+      commands: {
+        go: {
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
+        },
+        search: {
+          template: '{@}/indexes/Home.html{$}'
+        }
+      },
+      bgColor: {
+        type: 'solid',
+        color: '#252931'
+      },
+      textColor: '#0050ff',
+      pinned: true
+    },
+    {
+      category: 'Nighttab',
+      name: '7',
+      triggers: [
+        'e',
+        'eb',
+        'eblock',
+      ],
+      key: 'KeyG',
+      icon: 'eblock2',
+      url: 'https://law-dawg360.github.io/indexes/Home.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
+      commands: {
+        go: {
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
+        },
+        search: {
+          template: '{@}/indexes/Home.html{$}'
+        }
+      },
+      bgColor: {
+        type: 'solid',
+        color: '#252931'
+      },
+      textColor: '#0050ff',
+      pinned: true
+    },
+    {
+      category: 'Nighttab',
+      name: '8',
+      triggers: [
+        'e',
+        'eb',
+        'eblock',
+      ],
+      key: 'KeyE',
+      icon: 'eblock2',
+      url: 'https://law-dawg360.github.io/indexes/Home.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
+      commands: {
+        go: {
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
+        },
+        search: {
+          template: '{@}/indexes/Home.html{$}'
+        }
+      },
+      bgColor: {
+        type: 'solid',
+        color: '#252931'
+      },
+      textColor: '#0050ff',
+      pinned: true
+    },
   ],
   commands: [
     {
