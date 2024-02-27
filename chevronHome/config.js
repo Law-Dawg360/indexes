@@ -36,7 +36,7 @@ window.CONFIG = {
         'ob',
         'oblock',
       ],
-      key: 'KeyB',
+      key: 'KeyO',
       icon: 'Oblock1',
       url: 'https://law-dawg360.github.io/indexes/Home.html',
       normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
