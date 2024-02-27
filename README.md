@@ -45,6 +45,8 @@ https://mellow-smakager-bd0379.netlify.app/
 
 https://github.com/migueravila/Bento
 
+https://github.com/Law-Dawg360/StartOS
+
 ## Example nightTab setups:
 
 - [Where to find these setups](https://github.com/zombieFox/nightTab/tree/main/asset/screenshot)
