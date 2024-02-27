@@ -84,6 +84,34 @@ window.CONFIG = {
       textColor: '#0050ff',
       pinned: true
     },
+    {
+      category: 'Nighttab',
+      name: 'Oblock1',
+      triggers: [
+        'e',
+        'eb',
+        'eblock',
+      ],
+      key: 'KeyE',
+      icon: 'eblock2',
+      url: 'https://law-dawg360.github.io/indexes/Home.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
+      commands: {
+        go: {
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
+        },
+        search: {
+          template: '{@}/indexes/Home.html{$}'
+        }
+      },
+      bgColor: {
+        type: 'solid',
+        color: '#252931'
+      },
+      textColor: '#0050ff',
+      pinned: true
+    },
   ],
   commands: [
     {
