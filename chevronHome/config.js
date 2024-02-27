@@ -30,6 +30,34 @@ window.CONFIG = {
     },
     {
       category: 'Nighttab',
+      name: 'Oblock1',
+      triggers: [
+        'o',
+        'ob',
+        'oblock',
+      ],
+      key: 'KeyB',
+      icon: 'Oblock1',
+      url: 'https://law-dawg360.github.io/indexes/Home.html',
+      normalisedURL: 'law-dawg360.github.io/indexes/Home.html',
+      commands: {
+        go: {
+          template: 'https://law-dawg360.github.io/{$}',
+          description: 'go to home'
+        },
+        search: {
+          template: '{@}/indexes/Home.html{$}'
+        }
+      },
+      bgColor: {
+        type: 'solid',
+        color: '#252931'
+      },
+      textColor: '#0050ff',
+      pinned: true
+    },
+    {
+      category: 'Nighttab',
       name: 'Main',
       triggers: [
         'm',
