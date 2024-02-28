@@ -1,7 +1,7 @@
-https://law-dawg360.github.io/indexes/    A1    https://github.com/Law-Dawg360/indexes/tree/homepages
-https://law-dawg360.github.io/indexes/Home.html    A2    https://github.com/Law-Dawg360/indexes/blob/homepages/Home.html
-https://law-dawg360.github.io/indexes/Main.html    A3    https://github.com/Law-Dawg360/indexes/blob/homepages/Main.html
-https://law-dawg360.github.io/indexes/README.md    A4    https://github.com/Law-Dawg360/indexes/blob/homepages/README.md
+A    https://law-dawg360.github.io/indexes/    A    https://github.com/Law-Dawg360/indexes/tree/homepages
+https://law-dawg360.github.io/indexes/Home.html    A1    https://github.com/Law-Dawg360/indexes/blob/homepages/Home.html
+https://law-dawg360.github.io/indexes/Main.html    A2    https://github.com/Law-Dawg360/indexes/blob/homepages/Main.html
+https://law-dawg360.github.io/indexes/README.md    A3    https://github.com/Law-Dawg360/indexes/blob/homepages/README.md
 
 https://law-dawg360.github.io/indexes/assets    B    https://github.com/Law-Dawg360/indexes/tree/homepages/assets]
 https://law-dawg360.github.io/indexes/assets/images/    B-A    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/images
@@ -19,17 +19,16 @@ https://law-dawg360.github.io/indexes/assets/screenshots/editors/Screenshot_2024
 https://law-dawg360.github.io/indexes/assets/screenshots/editors/Screenshot_2024-02-26_002.png    B-E2    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/editors/Screenshot_2024-02-26_002.png
 https://law-dawg360.github.io/indexes/assets/videos/    B-F    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/videos
 
-https://law-dawg360.github.io/indexes/chevronHome/    B1
-https://law-dawg360.github.io/indexes/chevronHome/index.html    B2
+https://law-dawg360.github.io/indexes/chevronHome/    C
+https://law-dawg360.github.io/indexes/chevronHome/index.html    C1
 
-https://law-dawg360.github.io/indexes/descriptions/pages/dummy.html
+https://law-dawg360.github.io/indexes/descriptions/pages/ D
+https://law-dawg360.github.io/indexes/descriptions/pages/dummy.html D1
 
-https://law-dawg360.github.io/indexes/packages/    C2
-https://law-dawg360.github.io/indexes/packages/bento/    C-A1
-https://law-dawg360.github.io/indexes/packages/bento/index.html    C-A2
-https://law-dawg360.github.io/indexes/packages/nighttab/1/    C-B1
-https://law-dawg360.github.io/indexes/packages/nighttab/1/index.html    C-B2
-https://law-dawg360.github.io/indexes/packages/startOS/    C-C1
-https://law-dawg360.github.io/indexes/packages/startOS/index.html    C-C2
-
-https://law-dawg360.github.io/indexes/packages/startOS/index.html
+https://law-dawg360.github.io/indexes/packages/    E
+https://law-dawg360.github.io/indexes/packages/bento/    E-A
+https://law-dawg360.github.io/indexes/packages/bento/index.html    C-A1
+https://law-dawg360.github.io/indexes/packages/nighttab/1/    C-B
+https://law-dawg360.github.io/indexes/packages/nighttab/1/index.html    C-B1
+https://law-dawg360.github.io/indexes/packages/startOS/    C-C
+https://law-dawg360.github.io/indexes/packages/startOS/index.html    C-C1
