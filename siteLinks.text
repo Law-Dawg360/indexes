@@ -4,8 +4,14 @@ https://law-dawg360.github.io/indexes/Main.html    A3
 https://law-dawg360.github.io/indexes/README.md    A4
 
 https://law-dawg360.github.io/indexes/chevronHome/    B1
+https://law-dawg360.github.io/indexes/chevronHome/index.html    B2
 
-https://law-dawg360.github.io/indexes/packages/    B2
-https://law-dawg360.github.io/indexes/packages/bento/    B-A1
+https://law-dawg360.github.io/indexes/packages/    C2
+https://law-dawg360.github.io/indexes/packages/bento/    C-A1
+https://law-dawg360.github.io/indexes/packages/bento/index.html    C-A2
+https://law-dawg360.github.io/indexes/packages/nighttab/1/    C-B1
+https://law-dawg360.github.io/indexes/packages/nighttab/1/index.html    C-B2
+https://law-dawg360.github.io/indexes/packages/startOS/    C-C1
+https://law-dawg360.github.io/indexes/packages/startOS/index.html    C-C2
 
 https://law-dawg360.github.io/indexes/packages/startOS/index.html
