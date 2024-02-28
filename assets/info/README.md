@@ -6,6 +6,16 @@ afsnjfsasnhonafhodsnaflnfda
 sajkafsnjfsinjainaf
 ```
 
+```html
+<!-- Target -->
+<textarea id="bar">Mussum ipsum cacilds...</textarea>
+
+<!-- Trigger -->
+<button class="btn" data-clipboard-action="cut" data-clipboard-target="#bar">
+  Cut to clipboard
+</button>
+```
+
 
 ```html
 <script src="assets/javascripts/clipboard.min.js"></script>
