@@ -1,3 +1,11 @@
+```html
+<script src="assets/javascripts/clipboard.min.js"></script>
+```
+
+```js
+new ClipboardJS('.btn');
+```
+
 <script src="assets/javascripts/clipboard.min.js"></script>
 new ClipboardJS('.btn');
 
