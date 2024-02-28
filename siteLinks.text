@@ -1,23 +1,23 @@
-https://law-dawg360.github.io/indexes/    A1
-https://law-dawg360.github.io/indexes/Home.html    A2
-https://law-dawg360.github.io/indexes/Main.html    A3
-https://law-dawg360.github.io/indexes/README.md    A4
+https://law-dawg360.github.io/indexes/    A1    https://github.com/Law-Dawg360/indexes/tree/homepages
+https://law-dawg360.github.io/indexes/Home.html    A2    https://github.com/Law-Dawg360/indexes/blob/homepages/Home.html
+https://law-dawg360.github.io/indexes/Main.html    A3    https://github.com/Law-Dawg360/indexes/blob/homepages/Main.html
+https://law-dawg360.github.io/indexes/README.md    A4    https://github.com/Law-Dawg360/indexes/blob/homepages/README.md
 
-https://law-dawg360.github.io/indexes/assets    B
-https://law-dawg360.github.io/indexes/assets/images/    B-A
-https://law-dawg360.github.io/indexes/assets/images/imagefileicon.png    B-A1
-https://law-dawg360.github.io/indexes/assets/info    B-B
-https://law-dawg360.github.io/indexes/assets/info/sets.md    B-B1
-https://law-dawg360.github.io/indexes/assets/jsons/    B-C
-https://law-dawg360.github.io/indexes/assets/jsons/HomeMain1.json    B-C1
-https://law-dawg360.github.io/indexes/assets/jsons/oldmain1.json    B-C2
-https://law-dawg360.github.io/indexes/assets/screenshots/    B-D
-https://law-dawg360.github.io/indexes/assets/screenshots/Screenshot_2024-02-20_001.png    B-D1
-https://law-dawg360.github.io/indexes/assets/screenshots/Screenshot_2024-02-21_002.png    B-D2
-https://law-dawg360.github.io/indexes/assets/screenshots/editors/    B-E
-https://law-dawg360.github.io/indexes/assets/screenshots/editors/Screenshot_2024-02-26_001.png    B-E1
-https://law-dawg360.github.io/indexes/assets/screenshots/editors/Screenshot_2024-02-26_002.png    B-E2
-assets/videos    B-F
+https://law-dawg360.github.io/indexes/assets    B    https://github.com/Law-Dawg360/indexes/tree/homepages/assets
+https://law-dawg360.github.io/indexes/assets/images/    B-A    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/images
+https://law-dawg360.github.io/indexes/assets/images/imagefileicon.png    B-A1    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/images/imagefileicon.png
+https://law-dawg360.github.io/indexes/assets/info    B-B    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/info
+https://law-dawg360.github.io/indexes/assets/info/sets.md    B-B1    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/info/sets.md
+https://law-dawg360.github.io/indexes/assets/jsons/    B-C    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/jsons
+https://law-dawg360.github.io/indexes/assets/jsons/HomeMain1.json    B-C1    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/HomeMain1.json
+https://law-dawg360.github.io/indexes/assets/jsons/oldmain1.json    B-C2    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/jsons/oldmain1.json
+https://law-dawg360.github.io/indexes/assets/screenshots/    B-D    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/screenshots
+https://law-dawg360.github.io/indexes/assets/screenshots/Screenshot_2024-02-20_001.png    B-D1    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/Screenshot_2024-02-20_001.png
+https://law-dawg360.github.io/indexes/assets/screenshots/Screenshot_2024-02-21_002.png    B-D2    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/Screenshot_2024-02-21_002.png
+https://law-dawg360.github.io/indexes/assets/screenshots/editors/    B-E    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/screenshots/editors
+https://law-dawg360.github.io/indexes/assets/screenshots/editors/Screenshot_2024-02-26_001.png    B-E1    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/editors/Screenshot_2024-02-26_001.png
+https://law-dawg360.github.io/indexes/assets/screenshots/editors/Screenshot_2024-02-26_002.png    B-E2    https://github.com/Law-Dawg360/indexes/blob/homepages/assets/screenshots/editors/Screenshot_2024-02-26_002.png
+https://law-dawg360.github.io/indexes/assets/videos/    B-F    https://github.com/Law-Dawg360/indexes/tree/homepages/assets/videos
 
 https://law-dawg360.github.io/indexes/chevronHome/    B1
 https://law-dawg360.github.io/indexes/chevronHome/index.html    B2
