@@ -1,3 +1,14 @@
+<script src="assets/javascripts/clipboard.min.js"></script>
+new ClipboardJS('.btn');
+
+
+
+
+
+
+
+
+
 A    https://law-dawg360.github.io/indexes/    |    https://github.com/Law-Dawg360/indexes/tree/homepages    
 A1    https://law-dawg360.github.io/indexes/Home.html    |    https://github.com/Law-Dawg360/indexes/blob/homepages/Home.html    
 A2    https://law-dawg360.github.io/indexes/Main.html    |    https://github.com/Law-Dawg360/indexes/blob/homepages/Main.html    
