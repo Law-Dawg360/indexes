@@ -6,6 +6,8 @@ afsnjfsasnhonafhodsnaflnfda
 sajkafsnjfsinjainaf
 ```
 
+<a href="https://clipboardjs.com/#example-action"><img width="473" alt="example-3" src="https://cloud.githubusercontent.com/assets/398893/10000358/7df57b9c-6050-11e5-9cd1-fbc51d2fd0a7.png"></a>
+
 ```html
 <!-- Target -->
 <textarea id="bar">Mussum ipsum cacilds...</textarea>
