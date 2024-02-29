@@ -8,6 +8,12 @@ https://github.com/Law-Dawg360/indexes/blob/b132044f73baa21fe93878c6525101e528ae
 # /assets/icons/svg/1/YouTube1/big_logo_project_1.svg
 ```
 
+# code-reference-in-readme
+
+This is a sample repo meant to show that you can reference code snippets in markdown files that are rendered on GitHub.
+
+https://github.com/stevemar/code-reference-in-readme/blob/031e04f922c14ecd5b03a79d8c979ba8f3ab1e39/src/main.py#L1-L6
+
 https://github.com/Law-Dawg360/indexes/blob/ecec9e442c7b73c7d2a170789c0e967bd66dc333/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
 
 
