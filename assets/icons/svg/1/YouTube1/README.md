@@ -1,16 +1,20 @@
 <p>Download Link <a href="https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big%20logo%20project%201%20(1).svg">Download Image</a>
 
-[![nightTab Demo](assets/icons/svg/1/YouTube1/big_logo_project_1.svg)](view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big%20logo%20project%201%20(1).svg)
-[![](https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big%20logo%20project%201%20(1).svg)](view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big%20logo%20project%201%20(1).svg)
+
+[![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)](view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big%20logo%20project%201%20(1).svg)
+
+
+https://github.com/Law-Dawg360/indexes/blob/ecec9e442c7b73c7d2a170789c0e967bd66dc333/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
+
+
 <details>
   <summary>Click me</summary>
-  
   ### Heading
   1. 
 
   ### Some Javascript
   ```js
-
+https://github.com/Law-Dawg360/indexes/blob/ecec9e442c7b73c7d2a170789c0e967bd66dc333/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
   ```
 </details>
 
