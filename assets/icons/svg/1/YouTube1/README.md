@@ -2,20 +2,6 @@
 
 
 [![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)](view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big%20logo%20project%201%20(1).svg)    
-https://github.com/Law-Dawg360/indexes/blob/b132044f73baa21fe93878c6525101e528ae3765/chevronHome/icons.js
-
-```rb
-# /assets/icons/svg/1/YouTube1/big_logo_project_1.svg
-```
-
-# code-reference-in-readme
-
-This is a sample repo meant to show that you can reference code snippets in markdown files that are rendered on GitHub.
-
-https://github.com/Law-Dawg360/indexes/blob/700b7612364d844b181ee61eb443c93b4d9385de/assets/icons/svg/1/YouTube1/test.py
-
-https://github.com/Law-Dawg360/indexes/blob/ecec9e442c7b73c7d2a170789c0e967bd66dc333/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
-
 
 <details>
   <summary>Click me</summary>
