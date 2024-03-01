@@ -10,6 +10,11 @@
 
 <br clear="left"/>
 
+<img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
+<object data="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"></object>
+jsdaajsdjdskjadskkads    
+asjndsnjdsjnsdanjsj
+<br clear="left"/>
 <menu>
   <li>Coffee</li>
   <li>Tea</li>
