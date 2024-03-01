@@ -1,6 +1,6 @@
 big logo project 1(big_logo_project_1)
 	
-[![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)]
+[![](assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg)]
 <details open>
   <summary>big_logo_project_1</summary>
 
@@ -36,6 +36,7 @@ https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big_logo_proje
    <p>big logo project 1<a href="">(big_logo_project_1)</a>
 	
 big logo project 1(big_logo_project_1)
+[![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)]
 </details>
 
 <details>
