@@ -1,9 +1,8 @@
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
-some text floating around the image
-some text floating around the image
-some text floating around the image
-some text floating around the image
-some text floating around the image
+<href src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
+
+
+<br clear="left"/>
 
 <br clear="left"/>
 
@@ -53,6 +52,15 @@ some text floating around the image
 
 A "newline". This text doesn't float anymore, is left-aligned.
 
+
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+    </style>
 
 </details>
 
