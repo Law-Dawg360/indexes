@@ -1,6 +1,7 @@
-big logo project 1(big_logo_project_1)
+big logo project 1(big_logo_project_1)    
 	
-[![](/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg)]
+    
+[![](/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg)]    
 <details open>
   <summary>big_logo_project_1</summary>
 
