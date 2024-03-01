@@ -1,7 +1,12 @@
-big logo project 1(big_logo_project_1)    
-	
-    
-[![](/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg)]    
+<img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
+some text floating around the image
+some text floating around the image
+some text floating around the image
+some text floating around the image
+some text floating around the image
+
+<br clear="left"/>
+
 <details open>
   <summary>big_logo_project_1</summary>
 
@@ -38,6 +43,17 @@ https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big_logo_proje
 	
 big logo project 1(big_logo_project_1)
 [![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)]
+
+align="left" works fine. To break the alignment again, use a <br clear="left"/> (or <br clear="right"/>) tag:
+
+<img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
+some text floating around the image
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
+
 </details>
 
 <details>
