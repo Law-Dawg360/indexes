@@ -1,10 +1,18 @@
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
-<href src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
+<details open align="left"width="200px">
+  <summary>big_logo_project_1</summary>
 
+</details>
+<details open>
+  <summary>big_logo_project_1</summary>
+
+</details>
 
 <br clear="left"/>
 
-<br clear="left"/>
+<div style="float: right">
+    ![Replace this with your image](http://placehold.it/85x85 "Title")
+</div>
 
 <details open>
   <summary>big_logo_project_1</summary>
