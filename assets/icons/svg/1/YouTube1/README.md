@@ -1,18 +1,20 @@
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
-<details open align="left"width="200px">
+<details open>
   <summary>big_logo_project_1</summary>
-
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 </details>
 <details open>
   <summary>big_logo_project_1</summary>
-
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 </details>
 
 <br clear="left"/>
 
-<div style="float: right">
-    ![Replace this with your image](http://placehold.it/85x85 "Title")
-</div>
+<menu>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</menu>
 
 <details open>
   <summary>big_logo_project_1</summary>
@@ -69,6 +71,10 @@ A "newline". This text doesn't float anymore, is left-aligned.
       float: right;
     }
     </style>
+
+<div style="float: left">
+	[![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)]jnvskjnkknvxcnkxvc
+</div>
 
 </details>
 
