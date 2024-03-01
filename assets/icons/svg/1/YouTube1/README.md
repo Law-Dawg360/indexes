@@ -3,7 +3,7 @@
 
 [![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)](view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big%20logo%20project%201%20(1).svg)    
 
-<details>
+<details open>
   <summary>big_logo_project_1</summary>
 
 ## SVG Source
