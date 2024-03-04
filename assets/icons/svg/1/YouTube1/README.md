@@ -11,16 +11,12 @@
 </p>
 
 <p float="left">
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="100" />
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="100" /> 
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="100" />
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" /> 
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
 </p>
 
 
-<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-<img align="center" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-
 
 <details align="left">
   <summary>big_logo_project_1</summary>
@@ -35,6 +31,9 @@
 <img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 </details>
 
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+<img align="center" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 
 <br clear="left"/>
 <br clear="right"/>
