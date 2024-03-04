@@ -7,7 +7,9 @@
 
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
 
+This is the output of the build step:
 
+<!-- embedme /assets/icons/svg/1/YouTube1/readme2.md -->
 
 <details open>
   <summary>big_logo_project_1</summary>
@@ -33,6 +35,12 @@ view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/bi
 <div>This is the text block that will be replaced</div>
 <div>Let's make it work!</div>
 <!-- replacer_end -->
+
+<!-- embedme-ignore-next -->
+
+    ```ts
+    
+    ```
 
 ### SVG Code
 ```html
