@@ -3,6 +3,13 @@
   <img src="/img2.png" width="100" />
   <img src="/img2.png" width="100" />
 </p>
+<p align="center">
+  <img alt="Light" src="./light.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./dark.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./dark.png" width="45%">
+</p>
 
 
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
