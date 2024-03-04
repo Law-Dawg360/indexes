@@ -45,19 +45,7 @@ This is the code you need to align images to the right:
 
 If you like this, you might enjoy [markdown-magic](https://github.com/davidwells/markdown-magic). I built it to automatically format markdown files and allow folks to sync docs/code/data from external sources. 
 
-<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-
-<p align="left">
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-</p>
-<p align="right">
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-</p>
-
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">    
 
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
 <details open>
@@ -77,6 +65,7 @@ If you like this, you might enjoy [markdown-magic](https://github.com/davidwells
 # code-reference-in-readme
 
 This is a sample repo meant to show that you can reference code snippets in markdown files that are rendered on GitHub.
+
 
 https://github.com/Law-Dawg360/indexes/blob/8aedb3e9d33e6c547f8b295c0e292e237605e701/assets/icons/svg/1/YouTube1/readme2.md#L1-L13
 <details open>
@@ -164,3 +153,35 @@ A "newline". This text doesn't float anymore, is left-aligned.
 <details>
 <summary>w</summary>
 </details>
+
+
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">    
+
+<p align="left">
+	<details open>
+		<summary>big_logo_project_1</summary>
+</details>
+</p>
+<p align="right">
+	<details open>
+		<summary>big_logo_project_1</summary>
+</details>
+</p>
+
+
+<img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
+<details open>
+  <summary>big_logo_project_1</summary>
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+</details>
+<details open>
+  <summary>big_logo_project_1</summary>
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+</details>
+
+<br clear="left"/>
+
+<object data="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"></object>
+<details open>
+  <summary>big_logo_project_1</summary>
+# code-reference-in-readme
