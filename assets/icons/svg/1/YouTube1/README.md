@@ -11,39 +11,19 @@
 </p>    
 
 <p float="center">
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" /> 
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
-</p>    
-
-<p float="right">
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="center" width="100" />
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="center" width="100" /> 
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="center" width="100" />
 </p>    
 
+<p float="right">
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" /> 
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
+</p>    
 
 
-<details align="left">
-  <summary>big_logo_project_1</summary>
-<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-</details>
-<details align="left">
-  <summary>big_logo_project_1</summary>
-<img align="center" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-</details>
-<details align="left">
-  <summary>big_logo_project_1</summary>
-<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-</details>
 
-<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-<img align="center" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-
-<br clear="left"/>
-<br clear="right"/>
-<br clear="center"/>
 
 
 <img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">    
@@ -227,3 +207,27 @@ This is the code you need to align images to the right:
 ## Markdown Formatting on steriods
 
 If you like this, you might enjoy [markdown-magic](https://github.com/davidwells/markdown-magic). I built it to automatically format markdown files and allow folks to sync docs/code/data from external sources. 
+
+
+
+
+<details align="left">
+  <summary>big_logo_project_1</summary>
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+</details>
+<details align="left">
+  <summary>big_logo_project_1</summary>
+<img align="center" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+</details>
+<details align="left">
+  <summary>big_logo_project_1</summary>
+<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+</details>
+
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+<img align="center" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+
+<br clear="left"/>
+<br clear="right"/>
+<br clear="center"/>
