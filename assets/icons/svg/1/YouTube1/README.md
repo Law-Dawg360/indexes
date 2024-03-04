@@ -12,6 +12,12 @@
 <details open>
   <summary>big_logo_project_1</summary>
 
+1             |  2
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+3             |  4
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 ## This is the first of the YouTube Logos, and Logo #1
 ## SVG Source
   ```html
