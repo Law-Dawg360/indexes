@@ -5,13 +5,13 @@
   <summary>big_logo_project_1</summary>
 <img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 </details>
+<details align="center" open>
+  <summary>big_logo_project_1</summary>
+<img align="center" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+</details>
 <details align="right" open>
   <summary>big_logo_project_1</summary>
-<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-</details>
-<details align="left" open>
-  <summary>big_logo_project_1</summary>
-<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 </details>
 
 <br clear="left"/>
