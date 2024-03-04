@@ -17,4 +17,4 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i 's|<!-- SVG_PLACEHOLDER -->|$(< /assets/icons/svg/1/YouTube1/fetched_image.svg)|' assets/icons/svg/1/YouTube1/biglogoproject.md
+          sed -i 's|<!-- BIG_LOGO1_SVG_CODE -->|$(< /assets/icons/svg/1/YouTube1/fetched_image.svg)|' assets/icons/svg/1/YouTube1/biglogoproject.md
