@@ -1,17 +1,17 @@
 <img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">    
 
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
+<details align="left" open>
+  <summary>big_logo_project_1</summary>
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
+</details>
 <details align="right" open>
   <summary>big_logo_project_1</summary>
 <img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 </details>
-<details open>
+<details align="left" open>
   <summary>big_logo_project_1</summary>
 <img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
-</details>
-<details open>
-  <summary>big_logo_project_1</summary>
-<img align="right" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 </details>
 
 <br clear="left"/>
