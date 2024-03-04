@@ -12,6 +12,7 @@
 <details open>
   <summary>big_logo_project_1</summary>
 
+## This is the first of the YouTube Logos, and Logo #1
 ## SVG Source
   ```html
 view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
