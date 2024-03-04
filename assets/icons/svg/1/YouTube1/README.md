@@ -21,6 +21,10 @@
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 ## This is the first of the YouTube Logos, and Logo #1
 ## SVG  Code Source
