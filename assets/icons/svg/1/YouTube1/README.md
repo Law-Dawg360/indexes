@@ -8,34 +8,6 @@
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
 
 
-<object data="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"></object>
-<details open>
-  <summary>big_logo_project_1</summary>
-# code-reference-in-readme
-
-This is a sample repo meant to show that you can reference code snippets in markdown files that are rendered on GitHub.
-
-
-https://github.com/Law-Dawg360/indexes/blob/8aedb3e9d33e6c547f8b295c0e292e237605e701/assets/icons/svg/1/YouTube1/readme2.md#L1-L13
-<details open>
-  <summary>big_logo_project_1</summary>
-<!-- Target -->
-<input id="foo" value="https://github.com/zenorocha/clipboard.js.git" />
-
-<!-- Trigger -->
-<button class="btn" data-clipboard-target="#foo">
-  <img src="assets/clippy.svg" alt="Copy to clipboard" />
-</button>
-
-</details>
-
-
-
-<menu>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</menu>
 
 <details open>
   <summary>big_logo_project_1</summary>
@@ -96,6 +68,31 @@ A "newline". This text doesn't float anymore, is left-aligned.
 <div style="float: left">
 	[![](/assets/icons/svg/1/YouTube1/big_logo_project_1.svg)]jnvskjnkknvxcnkxvc
 </div>
+
+
+# code-reference-in-readme
+
+This is a sample repo meant to show that you can reference code snippets in markdown files that are rendered on GitHub.
+
+
+https://github.com/Law-Dawg360/indexes/blob/8aedb3e9d33e6c547f8b295c0e292e237605e701/assets/icons/svg/1/YouTube1/readme2.md#L1-L13
+<details open>
+  <summary>big_logo_project_1</summary>
+<!-- Target -->
+<input id="foo" value="https://github.com/zenorocha/clipboard.js.git" />
+
+<!-- Trigger -->
+<button class="btn" data-clipboard-target="#foo">
+  <img src="assets/clippy.svg" alt="Copy to clipboard" />
+</button>
+
+
+<menu>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</menu>
+
 
 </details>
 
