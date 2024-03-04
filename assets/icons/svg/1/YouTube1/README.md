@@ -1,28 +1,9 @@
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
-
-<p float="left">
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" /> 
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
 </p>
 
-<p float="left">
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
-</p>
-<p float="center">
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
-</p>
-<p float="right">
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
-</p>
-
-
-
-<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">    
 
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
 
@@ -249,3 +230,7 @@ If you like this, you might enjoy [markdown-magic](https://github.com/davidwells
 <br clear="left"/>
 <br clear="right"/>
 <br clear="center"/>
+
+
+
+<img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
