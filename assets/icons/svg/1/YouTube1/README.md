@@ -47,44 +47,12 @@ If you like this, you might enjoy [markdown-magic](https://github.com/davidwells
 
 <img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">
 
-<p align="right">
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
+<p align="left">
 	<details open>
 		<summary>big_logo_project_1</summary>
 </details>
 </p>
 <p align="right">
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-</p>
-<p align="right">
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
-	<details open>
-		<summary>big_logo_project_1</summary>
-</details>
 	<details open>
 		<summary>big_logo_project_1</summary>
 </details>
