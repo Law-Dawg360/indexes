@@ -27,6 +27,10 @@
   ```html
 view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
 ```
+
+### SVG Code
+<!-- BIG_LOGO1_SVG_CODE -->
+
 ### SVG Code
 ```html
 
