@@ -30,7 +30,8 @@ view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/bi
 
 ### SVG Code
 <!-- replacer_start -->
-
+<div>This is the text block that will be replaced</div>
+<div>Let's make it work!</div>
 <!-- replacer_end -->
 
 ### SVG Code
