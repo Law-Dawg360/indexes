@@ -7,7 +7,7 @@ See the full [Advanced Markdown doc](https://github.com/DavidWells/advanced-mark
 
 ## `left` alignment
 
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="left" width="100" height="100" src="">
 
 This is the code you need to align images to the left:
 ```
@@ -18,7 +18,7 @@ This is the code you need to align images to the left:
 
 ## `right` alignment
 
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="right" width="100" height="100" src="">
 
 This is the code you need to align images to the right:
 ```
@@ -30,7 +30,7 @@ This is the code you need to align images to the right:
 ## `center` alignment example
 
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="">
 </p>
 
 ```
