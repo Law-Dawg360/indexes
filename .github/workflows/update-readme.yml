@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
       
       - name: Retrieve SVG Code Secret
-        run: echo "${{ secrets.BIG_LOGO1_SVG_CODE }}" | base64 --decode > assets/icons/svg/1/YouTube1/fetched_image.svg
+        run: echo "${{ secrets.BIG_LOGO1_SVG_CODE }}" | base64 --decode > /assets/icons/svg/1/YouTube1/fetched_image.svg
 
       - name: Update README
         run: |
