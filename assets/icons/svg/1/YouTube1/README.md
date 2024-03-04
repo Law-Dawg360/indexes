@@ -1,50 +1,3 @@
-
-# Aligning images
-
-This is a guide for aligning images.
-
-See the full [Advanced Markdown doc](https://github.com/DavidWells/advanced-markdown) for more tips and tricks
-
-## `left` alignment
-
-<img align="left" width="100" height="100" src="">
-
-This is the code you need to align images to the left:
-```
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
-```
-
----
-
-## `right` alignment
-
-<img align="right" width="100" height="100" src="">
-
-This is the code you need to align images to the right:
-```
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
-```
-
----
-
-## `center` alignment example
-
-<p align="center">
-  <img width="460" height="300" src="">
-</p>
-
-```
-<p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
-</p>
-```
-
----
-
-## Markdown Formatting on steriods
-
-If you like this, you might enjoy [markdown-magic](https://github.com/davidwells/markdown-magic). I built it to automatically format markdown files and allow folks to sync docs/code/data from external sources. 
-
 <img align="left" width="100" height="100" src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg">    
 
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
@@ -185,3 +138,53 @@ A "newline". This text doesn't float anymore, is left-aligned.
 <details open>
   <summary>big_logo_project_1</summary>
 # code-reference-in-readme
+
+
+
+
+
+# Aligning images
+
+This is a guide for aligning images.
+
+See the full [Advanced Markdown doc](https://github.com/DavidWells/advanced-markdown) for more tips and tricks
+
+## `left` alignment
+
+<img align="left" width="100" height="100" src="">
+
+This is the code you need to align images to the left:
+```
+<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+```
+
+---
+
+## `right` alignment
+
+<img align="right" width="100" height="100" src="">
+
+This is the code you need to align images to the right:
+```
+<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+```
+
+---
+
+## `center` alignment example
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
+
+```
+<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300">
+</p>
+```
+
+---
+
+## Markdown Formatting on steriods
+
+If you like this, you might enjoy [markdown-magic](https://github.com/davidwells/markdown-magic). I built it to automatically format markdown files and allow folks to sync docs/code/data from external sources. 
