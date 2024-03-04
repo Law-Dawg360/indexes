@@ -8,13 +8,19 @@
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" /> 
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
-</p>
+</p>    
 
-<p float="left">
+<p float="center">
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" /> 
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="right" width="100" />
-</p>
+</p>    
+
+<p float="right">
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="center" width="100" />
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="center" width="100" /> 
+  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="center" width="100" />
+</p>    
 
 
 
