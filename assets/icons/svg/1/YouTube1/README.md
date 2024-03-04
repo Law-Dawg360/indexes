@@ -1,7 +1,7 @@
 <p float="left">
   <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" /> 
-  <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" width="100" />
+  <img src="/img2.png" width="100" />
+  <img src="/img2.png" width="100" />
 </p>
 
 
