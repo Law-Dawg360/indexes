@@ -1,1 +1,20 @@
+name: Update SVG Code
 
+on:
+  push:
+    branches:
+      - homepages
+
+jobs:
+  update-svg-code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Retrieve SVG Code Secret
+        run: echo "${{ secrets.BIG_LOGO1_SVG_CODE }}" | base64 --decode > assets/icons/svg/1/YouTube1/fetched_image.svg
+
+      - name: Update README
+        run: |
+          sed -i 's|<!-- SVG_PLACEHOLDER -->|$(< /assets/icons/svg/1/YouTube1/fetched_image.svg)|' /assets/icons/svg/1/YouTube1/README.md
