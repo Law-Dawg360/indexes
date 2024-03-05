@@ -1,15 +1,4 @@
-<p float="left">
-  <img src="/img2.png" width="100" />
-  <img src="/img2.png" width="100" />
-  <img src="/img2.png" width="100" />
-</p>
-
-
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
-
-This is the output of the build step:
-
-<!-- embedme /assets/icons/svg/1/YouTube1/readme2.md -->
 
 <details open>
   <summary>big_logo_project_1</summary>
