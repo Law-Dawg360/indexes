@@ -2,7 +2,7 @@
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
 
 <details open>
-  <summary>big_logo_project_1</summary>
+  <summary>ONE</summary>
 
 1             |2             |3             |4             |5             |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
