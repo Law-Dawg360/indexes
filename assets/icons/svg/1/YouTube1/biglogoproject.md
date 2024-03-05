@@ -31,18 +31,6 @@ view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/bi
 ```
 
 ### SVG Code
-<!-- replacer_start -->
-<div>This is the text block that will be replaced</div>
-<div>Let's make it work!</div>
-<!-- replacer_end -->
-
-<!-- embedme-ignore-next -->
-
-    ```ts
-    www
-    ```
-
-### SVG Code
 ```html
 
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
@@ -57,6 +45,7 @@ view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/bi
 	<use id="Folder 2 copy" href="#img2" x="33" y="123"/>
 </svg>
 ```
+
 ## SVG Image
 ```html
 https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
