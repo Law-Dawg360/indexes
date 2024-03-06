@@ -6,12 +6,13 @@
 
 <details open>
   <summary>Links</summary>
+	
 Y             |O             |U             |T             |U             |B             |E             |:|https://www.youtube.com/|
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
-YouTube|https://www.youtube.com/results?search_query=
+YouTube Search|https://www.youtube.com/results?search_query=
 :-------------------------:|:-------------------------:|
-![](https://...Dark.png)  |  ![](https://...Dark.png)  |
+YouTube Library  |  https://www.youtube.com/feed/library  |
 
 
 https://www.youtube.com/results?search_query=
