@@ -1,4 +1,4 @@
-## Big Logo Project 1
+## Big Logo Project 1 <> This is the first of the YouTube Logos, and Logo #1
 <img src="/assets/icons/svg/1/YouTube1/big_logo_project_1_iconForCode.svg" align="left" width="200px"/>
 
 <details open>
@@ -11,7 +11,7 @@ YouTube Search  |  :  |  https://www.youtube.com/results?search_query=  |
 YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
 
 
-<details>
+<details open>
   <summary>Table of Contents</summary>
 	
 ## SVG Code Source
@@ -46,8 +46,6 @@ https://www.youtube.com/results?search_query=
 </details>
 
 
-
-## This is the first of the YouTube Logos, and Logo #1
 ## SVG  Code Source
   ```html
 view-source:https://law-dawg360.github.io/indexes/assets/icons/svg/1/YouTube1/big_logo_project_1.svg
