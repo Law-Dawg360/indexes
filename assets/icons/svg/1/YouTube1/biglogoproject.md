@@ -5,6 +5,14 @@
   <summary>ONE</summary>
 
 ### Links
+
+
+| YouTube Site | Link |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
 YouTube             |:|https://www.youtube.com/|
 :-------------------------:|:-------------------------:|:-------------------------:|
 YouTube Search  |  :  |  https://www.youtube.com/results?search_query=  |
@@ -13,7 +21,13 @@ YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
 
 <details open>
   <summary>Table of Contents</summary>
-	
+
+
+| YouTube Site | Link |
+| --- | --- |
+| `SVG Code Source` | This is the Link to the rawUserContent GitHub Page for the SVG Image's code |
+| `SVG Code` | This is the code of the SVG Image |
+| `SVG Image` | This is the link to the github page/directory that the image is held in |
 ### SVG Code Source
 ``
 This is the Link to the rawUserContent GitHub Page for the SVG Image's code
@@ -32,6 +46,13 @@ This is the link to the github page/directory that the image is held in
  
 <details>
   <summary>Links Testing</summary>
+
+
+YouTube             |:|https://www.youtube.com/|
+:-------------------------:|:-------------------------:|:-------------------------:|
+YouTube Search  |  :  |  https://www.youtube.com/results?search_query=  |
+YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
+  
 	
 Y             |O             |U             |T             |U             |B             |E             |:|https://www.youtube.com/|
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
