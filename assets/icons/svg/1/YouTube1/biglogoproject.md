@@ -7,10 +7,10 @@
 ### Links
 
 
-| YouTube Site | Link |
+| YouTube | https://www.youtube.com/ |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| YouTube Search | https://www.youtube.com/results?search_query= |
+| YouTube Library | https://www.youtube.com/feed/library |
 
 
 YouTube             |:|https://www.youtube.com/|
