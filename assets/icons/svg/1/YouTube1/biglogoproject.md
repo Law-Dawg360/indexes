@@ -5,7 +5,9 @@
   <summary>ONE</summary>
 
 <details open>
-  <summary>Links</summary>
+  <summary>
+	  Links
+  </summary>
 	
 YouTube             |:|https://www.youtube.com/|
 :-------------------------:|:-------------------------:|:-------------------------:|
