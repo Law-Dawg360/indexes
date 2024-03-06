@@ -23,7 +23,7 @@ YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
   <summary>Table of Contents</summary>
 
 
-| YouTube Site | Link |
+| Thing being displayed | Definition |
 | --- | --- |
 | `SVG Code Source` | This is the Link to the rawUserContent GitHub Page for the SVG Image's code |
 | `SVG Code` | This is the code of the SVG Image |
