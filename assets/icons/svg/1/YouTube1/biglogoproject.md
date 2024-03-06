@@ -4,18 +4,19 @@
 <details open>
   <summary>ONE</summary>
 
+<details open>
+  <summary>Links</summary>
 Y             |O             |U             |T             |U             |B             |E             |:|https://www.youtube.com/|
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](https://...Dark.png)  |  ![](https://...Ocean.png)  |  
-![](https://...Dark.png)  |  ![](https://...Ocean.png)  |
-![](https://...Ocean.png)  |  ![](https://...Ocean.png)  |
-![](https://...Ocean.png)  |  ![](https://...Ocean.png)  |
-![](https://...Ocean.png)  |
+
+YouTube|https://www.youtube.com/results?search_query=
+:-------------------------:|:-------------------------:|
+![](https://...Dark.png)  |  ![](https://...Dark.png)  |
 
 
 https://www.youtube.com/results?search_query=
 
-
+</details>
 
 
 
