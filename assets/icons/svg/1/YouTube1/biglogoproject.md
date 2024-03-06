@@ -14,15 +14,15 @@ YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
 <details open>
   <summary>Table of Contents</summary>
 	
-## SVG Code Source
+### SVG Code Source
 ``
 This is the Link to the rawUserContent GitHub Page for the SVG Image's code
 ``    
-## SVG Code
+### SVG Code
 ``
 This is the code of the SVG Image
 ``   
-## SVG Image
+### SVG Image
 ``
 This is the link to the github page/directory that the image is held in
 ``
