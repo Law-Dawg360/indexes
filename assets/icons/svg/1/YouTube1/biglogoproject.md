@@ -13,12 +13,6 @@
 | YouTube Library | https://www.youtube.com/feed/library |
 
 
-YouTube             |:|https://www.youtube.com/|
-:-------------------------:|:-------------------------:|:-------------------------:|
-YouTube Search  |  :  |  https://www.youtube.com/results?search_query=  |
-YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
-
-
 <details open>
   <summary>Table of Contents</summary>
 
@@ -46,6 +40,19 @@ This is the link to the github page/directory that the image is held in
  
 <details>
   <summary>Links Testing</summary>
+
+
+| YouTube | https://www.youtube.com/ |
+| --- | --- |
+| YouTube Search | https://www.youtube.com/results?search_query= |
+| YouTube Library | https://www.youtube.com/feed/library |
+
+
+YouTube             |:|https://www.youtube.com/|
+:-------------------------:|:-------------------------:|:-------------------------:|
+YouTube Search  |  :  |  https://www.youtube.com/results?search_query=  |
+YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
+
 
 
 YouTube             |:|https://www.youtube.com/|
