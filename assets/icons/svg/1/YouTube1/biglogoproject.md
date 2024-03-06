@@ -7,20 +7,10 @@
 <details open>
   <summary>Links</summary>
 	
-YouTube Search|https://www.youtube.com/results?search_query=
-:-------------------------:|:-------------------------:|
-YouTube Library  |  https://www.youtube.com/feed/library  |
-
-
 YouTube             |:|https://www.youtube.com/|
 :-------------------------:|:-------------------------:|:-------------------------:|
 YouTube Search  |  :  |  https://www.youtube.com/results?search_query=  |
 YouTube Library  |  :  |  https://www.youtube.com/feed/library  |
-
-YouTube Search|https://www.youtube.com/results?search_query=
-:-------------------------:|:-------------------------:|
-YouTube Library  |  https://www.youtube.com/feed/library  |
-
 
 https://www.youtube.com/results?search_query=
 
