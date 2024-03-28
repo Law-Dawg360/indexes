@@ -1,7 +1,7 @@
 <details open>
 	<summary>Names</summary>
 	1. 
-	<details open>
+	<details>
 	<summary>Lawson Poppell</summary>
 		Robert		
 		Lawson		
