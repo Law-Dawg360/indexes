@@ -1,4 +1,10 @@
 <details open>
 	<summary>Names</summary>
-	Lawson Poppell
+	1. 
+	<details open>
+	<summary>Lawson Poppell</summary>
+		Robert		
+		Lawson		
+		Poppell		
+</details>
 </details>
